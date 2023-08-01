@@ -1,0 +1,8 @@
+==========Formic use full package===========
+npm i formik
+
+npm i yup
+
+npm i react-datepicker
+
+npm i react-select
